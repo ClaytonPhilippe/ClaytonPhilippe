@@ -10,6 +10,9 @@
 🎨E também faço projetos 3D:
 
 
+<img align="right" src="https://user-images.githubusercontent.com/77082797/116950104-73840c80-ac5a-11eb-8836-0c55a4d63497.png" width="350"/>
+
+
 
 
 
