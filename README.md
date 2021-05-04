@@ -1,7 +1,6 @@
 
 
-<h3>Oi, sou o Clayton</h3>
-
+<h3>Oi, sou Clayton</h3>
 <h3>Bem vindo, obrigado por visitar minha página! 👋</h3>
 
 Sou entusiasta do mundo da programação,</br> 
