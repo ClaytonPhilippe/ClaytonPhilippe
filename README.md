@@ -4,7 +4,7 @@
 
 <h3>Bem vindo, obrigado por visitar minha página👋</h3>
 
-Sou entusiasta do mundo da programação, 
+Sou entusiasta do mundo da programação,</br> 
 principalmente na área de desenvolvimento Mobile, e também artista 3D.
 
 🚀Sempre em busca do próximo nível</br>
