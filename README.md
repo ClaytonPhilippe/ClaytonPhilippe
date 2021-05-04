@@ -3,7 +3,7 @@
 
 
 <h2>Obrigado por visitar minha página</h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-🎨Também faço artes 3D: [meu site](https://www.artstation.com/claytonphilippe)
+🎨Também faço artes 3D:  [my website](https://daltonmenezes.github.io/#contact)
 🚀Sempre em busca do próximo nível<p>
 💻Focado em React Native, mas estou sempre em busca de conhecer novas tecnologias.
 
