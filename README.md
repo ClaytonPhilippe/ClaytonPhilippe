@@ -2,7 +2,7 @@
 
 
 
-<h2>Obrigado por visitar minha página</h2>👋
+<h3>Obrigado por visitar minha página</h3>👋
 
 🎨Também faço artes 3D:</br> 
 🚀Sempre em busca do próximo nível</br>
