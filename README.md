@@ -4,7 +4,7 @@
 
 <h3>Bem vindo, obrigado por visitar minha página👋</h3>
 
-Sou um entusiasta no mundo da programação, e artista 3D.
+Sou um entusiasta de programação e desenvolvimento Mobile, e também artista 3D.
 
 🚀Sempre em busca do próximo nível</br>
 🔭Focado em React Native, mas sempre em busca de conhecer novas tecnologias.</br>
