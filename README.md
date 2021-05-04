@@ -6,8 +6,8 @@
 
 
 🚀Sempre em busca do próximo nível</br>
-🔭Focado em React Native, mas estou sempre em busca de conhecer novas tecnologias.
-🎨E também faço artes 3D:</br> 
+🔭Focado em React Native, mas estou sempre em busca de conhecer novas tecnologias.</br>
+🎨E também faço artes 3D:
 
 
 
