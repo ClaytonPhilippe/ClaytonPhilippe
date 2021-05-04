@@ -3,8 +3,9 @@
 
 
 <h2>Obrigado por visitar minha página</h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-🎨Também faço artes 3D:  
-🚀Sempre em busca do próximo nível<p>
+
+🎨Também faço artes 3D:</br> 
+🚀Sempre em busca do próximo nível</br>
 💻Focado em React Native, mas estou sempre em busca de conhecer novas tecnologias.
 
 
