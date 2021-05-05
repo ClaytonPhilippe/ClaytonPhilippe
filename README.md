@@ -11,7 +11,7 @@
 Entusiasta do mundo da programação, principalmente na área de desenvolvimento Mobile, e também sou artista 3D.
 
 🚀Sempre em busca do próximo nível</br>
-🔭Melhorando minhas habilidades em React Native, mas sempre buscando conhecer novas tecnologias.</br>
+📱 Melhorando minhas habilidades em React Native, mas sempre buscando conhecer novas tecnologias.</br>
 🎨Para conhecer meus projetos 3D: [acesse meu site.](https://www.artstation.com/claytonphilippe)
 
 
