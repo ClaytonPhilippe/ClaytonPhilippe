@@ -1,4 +1,9 @@
 
+<a href="#">
+  <img align="right" src="https://github.com/ClaytonPhilippe/ClaytonPhilippe/blob/main/image/undraw_lost_online_wqob.svg" width=55% height=55% />
+</a>
+
+
 
 <h3>Olá, sou Clayton</h3>
 <h3>Bem vindo, e obrigado por visitar minha página! 👋</h3>
@@ -10,7 +15,7 @@ Entusiasta do mundo da programação, principalmente na área de desenvolvimento
 🎨Meus projetos 3D: https://www.artstation.com/claytonphilippe
 
 
-<img align="right" src="https://user-images.githubusercontent.com/77082797/116950104-73840c80-ac5a-11eb-8836-0c55a4d63497.png" width="350"/>
+
 
 
 
