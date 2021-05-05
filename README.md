@@ -5,8 +5,8 @@
 
 
 
-<h3>Olá, sou Clayton</h3>
-<h3>Bem vindo, e obrigado por visitar minha página! 👋</h3>
+<h3>Olá, sou Clayton👋</h3>
+<h3>Bem vindo, e obrigado por visitar minha página!</h3>
 
 Entusiasta do mundo da programação, principalmente na área de desenvolvimento Mobile, e também sou artista 3D.
 
