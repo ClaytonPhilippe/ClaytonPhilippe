@@ -12,7 +12,7 @@ Entusiasta do mundo da programação, principalmente na área de desenvolvimento
 
 🚀Sempre em busca do próximo nível</br>
 🔭Melhorando minhas habilidades em React Native, mas sempre buscando conhecer novas tecnologias.</br>
-🎨[Meus projetos 3D](https://www.artstation.com/claytonphilippe)
+🎨Para conhecer meus projetos 3D [Acesse meu site.](https://www.artstation.com/claytonphilippe)
 
 
 
