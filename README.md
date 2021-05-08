@@ -8,7 +8,8 @@
 <h3>Olá, sou Clayton👋</h3>
 <h3>Bem-vindo ao meu perfil!</h3>
 
-Sou um entusiasta no mundo da programação, principalmente na área de desenvolvimento Mobile, e também sou artista 3D.
+Minha paixão em programar reside em sonhar com ideias impactantes e torná-las realidade com interfaces elegantes.
+Apaixonado por desenvolvimento Mobile, e também sou artista 3D.
 
 🚀Sempre em busca do próximo nível</br>
 📱 Melhorando minhas habilidades em React Native, mas sempre buscando conhecer novas tecnologias.</br>
