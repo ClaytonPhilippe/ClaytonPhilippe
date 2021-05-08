@@ -11,7 +11,7 @@
 Minha paixão em programar reside em sonhar com ideias impactantes e torná-las realidade com interfaces elegantes.
 Apaixonado por desenvolvimento Mobile, e também sou artista 3D.
 
-🚀Sempre disposto a aprender, em busca do próximo nível</br>
+🚀Sempre disposto a aprender, em busca do próximo nível.</br>
 📚Neste momento, estudando de tudo, melhorando minhas habilidades em React Native.</br>
 🎨Para conhecer meus projetos 3D: [acesse meu site.](https://www.artstation.com/claytonphilippe)
 
