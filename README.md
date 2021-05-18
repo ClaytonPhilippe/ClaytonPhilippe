@@ -12,7 +12,7 @@ Minha paixão em programar reside em sonhar com ideias impactantes e torná-las 
 Apaixonado por desenvolvimento Mobile, e também sou artista 3D.
 
 🚀Sempre disposto a aprender, em busca do próximo nível.</br>
-📚Neste momento, estudando de tudo, com foco em Front-end, todo ecossistema do JavaScript.</br>
+📚Neste momento, estudando tudo sobre universo JavaScript.</br>
 🎨Para conhecer meus projetos 3D: [acesse meu site.](https://www.artstation.com/claytonphilippe)
 
 
