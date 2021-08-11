@@ -8,8 +8,8 @@
 <h3>Olá, sou Clayton👋</h3>
 <h3>Bem-vindo ao meu perfil!</h3>
 
-Minha paixão em programar reside em sonhar com ideias impactantes e torná-las realidade com interfaces elegantes.
-Apaixonado por desenvolvimento Mobile, e também sou artista 3D.
+Meu foco em programar reside em sonhar com ideias impactantes e torná-las realidade! 
+Estusiasta por desenvolvimento Mobile, e também sou artista 3D.
 
 🚀Sempre disposto a aprender, em busca do próximo nível.</br>
 📚Neste momento, estudando tudo sobre universo JavaScript.</br>
