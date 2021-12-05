@@ -6,6 +6,7 @@
 
 
 <h3>Olá, sou Clayton👋</h3>
+Desenvolvedor Front End | •React Native •JavaScript | Artista 3D
 <h3>Bem-vindo ao meu perfil!</h3>
 
 Meu foco em programar reside em sonhar com ideias impactantes e torná-las realidade! 
