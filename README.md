@@ -2,7 +2,7 @@
 <a href="#">
   <img align="right" src="https://github.com/ClaytonPhilippe/ClaytonPhilippe/blob/main/image/undraw_lost_online_wqob.svg" width=55% height=55% />
 </a>
-Desenvolvedor Front End | •React Native 
+Desenvolvedor Front End
 
 
 <h3>Olá, sou Clayton👋</h3>
