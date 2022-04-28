@@ -15,8 +15,8 @@ Estusiasta por desenvolvimento Mobile, e também sou artista 3D.
 📚Neste momento, estudando tudo sobre universo JavaScript.</br>
 🎨Para conhecer meus projetos 3D: [acesse meu site.](https://www.artstation.com/claytonphilippe)
 
+<br />
 
-#
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/claytonphilippe/) 
 
 <br />
