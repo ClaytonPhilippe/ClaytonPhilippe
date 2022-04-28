@@ -23,9 +23,9 @@ Estusiasta por desenvolvimento Mobile, e também sou artista 3D.
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<div>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claytonphilippe/)](https://www.linkedin.com/in/claytonphilippe/) 
-</div>
+
 
 
 
