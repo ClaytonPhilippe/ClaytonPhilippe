@@ -25,3 +25,5 @@ Estusiasta por desenvolvimento Mobile, e também sou artista 3D.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/claytonphilippe/) 
 
+[![Gmail Badge](https://img.shields.io/badge/-rodrigorgtic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorgtic@gmail.com)](mailto:fhugoduarte@gmail.com)
+
