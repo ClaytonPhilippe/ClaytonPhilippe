@@ -12,7 +12,6 @@ Meu foco em programar reside em sonhar com ideias impactantes e torná-las reali
 Estusiasta por desenvolvimento Mobile, e também sou artista 3D.
 
 🚀Sempre em busca do próximo nível.</br>
-📚Estudando tudo sobre universo JavaScript.</br>
 🎨Para conhecer meus projetos 3D: [acesse meu site.](https://www.artstation.com/claytonphilippe)
 
 
