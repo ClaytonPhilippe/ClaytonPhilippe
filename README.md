@@ -25,5 +25,5 @@ Estusiasta por desenvolvimento Mobile, e também sou artista 3D.
 <p align="center">
 <a href=https://github.com/ClaytonPhilippe/star-wars-mobile-library>Star Wars - Mobile Libray</a>
 <br/>
-  <img src="https://github.com/ClaytonPhilippe/ClaytonPhilippe/blob/main/image/SWMobileLibray.png" />
+  <img src="https://github.com/ClaytonPhilippe/ClaytonPhilippe/blob/main/image/SWMobileLibray.png"  width="300" />
 </p>
