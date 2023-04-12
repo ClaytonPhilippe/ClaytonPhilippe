@@ -28,7 +28,7 @@ Estusiasta por desenvolvimento Mobile, e também sou artista 3D.
 
 <br/>
 <p align="center">
-<a href=https://github.com/ClaytonPhilippe/star-wars-mobile-library>Rentx</a>
+<a href=https://github.com/ClaytonPhilippe/rentx>Rentx</a>
 <br/>
   <img src="https://github.com/ClaytonPhilippe/ClaytonPhilippe/blob/main/image/rentx.png"  width="300" />
 </p>
