@@ -6,12 +6,6 @@
 
 
 
-<a href="#">
-  <img align="right" src="https://github.com/ClaytonPhilippe/ClaytonPhilippe/blob/main/image/undraw_lost_online_wqob.svg" width=55% height=55% />
-</a>
-
-
-
 <h3>Olá, sou Clayton👋</h3>
 <h3>Bem-vindo ao meu perfil!</h3>
 
@@ -21,8 +15,12 @@ Estusiasta por desenvolvimento Mobile, e também sou artista 3D.
 🚀Sempre em busca do próximo nível.</br>
 🎨Para conhecer meus projetos 3D: [acesse meu site.](https://www.artstation.com/claytonphilippe)
 
+<br/>
 
+<div align="center"><h3>Projetos</h3></div>
 
+<br/>
 
-
-
+<p align="center">
+  <img src="https://github.com/ClaytonPhilippe/ClaytonPhilippe/blob/main/image/SWMobileLibray.png" />
+</p>
