@@ -21,15 +21,14 @@ Estusiasta por desenvolvimento Mobile, e também sou artista 3D.
 <p align="center">
 <a href=https://github.com/ClaytonPhilippe/star-wars-mobile-library>Star Wars - Mobile Libray</a>
 <br/>
-  <img src="https://github.com/ClaytonPhilippe/ClaytonPhilippe/blob/main/image/SWMobileLibray.png"  width="300" />
+  <img src="https://github.com/ClaytonPhilippe/ClaytonPhilippe/blob/main/image/SWMobileLibray.png"  width="200" />
 </p>
-
 
 <br/>
 <p align="center">
 <a href=https://github.com/ClaytonPhilippe/rentx>Rentx</a>
 <br/>
-  <img src="https://github.com/ClaytonPhilippe/ClaytonPhilippe/blob/main/image/rentx.png"  width="300" />
+  <img src="https://github.com/ClaytonPhilippe/ClaytonPhilippe/blob/main/image/rentx.png"  width="200" />
 </p>
 
 
@@ -44,5 +43,4 @@ Estusiasta por desenvolvimento Mobile, e também sou artista 3D.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=Projeto-Clone-Spotify&theme=dark&hide_border=true&bg_color=28385c)](https://github.com/ClaytonPhilippe/Projeto-Clone-Spotify)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=verificador-de-idade&theme=dark&hide_border=true&bg_color=28385c)](https://github.com/ClaytonPhilippe/verificador-de-idade)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=hora-do-dia&theme=dark&hide_border=true&bg_color=28385c)](https://github.com/ClaytonPhilippe/hora-do-dia)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=lampada&theme=dark&hide_border=true&bg_color=28385c)](https://github.com/ClaytonPhilippe/lampada)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=calcule-seu-imc&theme=dark&hide_border=true&bg_color=28385c)](https://github.com/ClaytonPhilippe/calcule-seu-imc)
