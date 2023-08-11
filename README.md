@@ -6,12 +6,13 @@
 
 
 
-<h3>Olá, sou Clayton👋</h3>
+<!--<h3>Olá, sou Clayton👋</h3>
 <h3>Bem-vindo ao meu perfil!</h3>
 
 🚀 Meu foco em programar reside em sonhar com ideias impactantes e torná-las realidade! 
 Estusiasta por desenvolvimento Mobile, e também sou artista 3D.
 🎨Para conhecer meus projetos 3D: [acesse meu site.](https://www.artstation.com/claytonphilippe)
+-->
 
 <br/>
 <div align="center"><h3> :iphone:Projetos </h3></div>
@@ -45,4 +46,6 @@ Estusiasta por desenvolvimento Mobile, e também sou artista 3D.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=verificador-de-idade&theme=dark&hide_border=true&bg_color=28385c)](https://github.com/ClaytonPhilippe/verificador-de-idade)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=hora-do-dia&theme=dark&hide_border=true&bg_color=28385c)](https://github.com/ClaytonPhilippe/hora-do-dia)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=calcule-seu-imc&theme=dark&hide_border=true&bg_color=28385c)](https://github.com/ClaytonPhilippe/calcule-seu-imc)
+
+
 
