@@ -5,7 +5,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-claytonphilippe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claytonphilippe@gmail.com)](mailto:claytonphilippe@gmail.com)
 
 
-
 <!--<h3>Olá, sou Clayton👋</h3>
 <h3>Bem-vindo ao meu perfil!</h3>
 
@@ -21,14 +20,14 @@ Estusiasta por desenvolvimento Mobile, e também sou artista 3D.
 <p align="center">
 <a href=https://github.com/ClaytonPhilippe/star-wars-mobile-library>Star Wars - Mobile Libray</a>
 <br/>
-  <img src="https://github.com/ClaytonPhilippe/ClaytonPhilippe/blob/main/image/SWMobileLibray.png"  width="200" />
+  <img src="https://github.com/ClaytonPhilippe/ClaytonPhilippe/blob/main/image/SWMobileLibray.png"  width="230" />
 </p>
 
 <br/>
 <p align="center">
 <a href=https://github.com/ClaytonPhilippe/rentx>Rentx</a>
 <br/>
-  <img src="https://github.com/ClaytonPhilippe/ClaytonPhilippe/blob/main/image/rentx.png"  width="200" />
+  <img src="https://github.com/ClaytonPhilippe/ClaytonPhilippe/blob/main/image/rentx.png"  width="230" />
 </p>
 
 
