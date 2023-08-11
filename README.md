@@ -9,10 +9,8 @@
 <h3>Olá, sou Clayton👋</h3>
 <h3>Bem-vindo ao meu perfil!</h3>
 
-Meu foco em programar reside em sonhar com ideias impactantes e torná-las realidade! 
+🚀 Meu foco em programar reside em sonhar com ideias impactantes e torná-las realidade! 
 Estusiasta por desenvolvimento Mobile, e também sou artista 3D.
-
-🚀Sempre em busca do próximo nível.</br>
 🎨Para conhecer meus projetos 3D: [acesse meu site.](https://www.artstation.com/claytonphilippe)
 
 <br/>
@@ -32,3 +30,7 @@ Estusiasta por desenvolvimento Mobile, e também sou artista 3D.
 <br/>
   <img src="https://github.com/ClaytonPhilippe/ClaytonPhilippe/blob/main/image/rentx.png"  width="300" />
 </p>
+
+
+Project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=Project&theme=dark&hide_border=true&bg_color=446644)](https://github.com/ClaytonPhilippe/rentx)
