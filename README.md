@@ -12,10 +12,10 @@
 🚀 Meu foco em programar reside em sonhar com ideias impactantes e torná-las realidade! 
 Estusiasta por desenvolvimento Mobile, e também sou artista 3D.
 🎨Para conhecer meus projetos 3D: [acesse meu site.](https://www.artstation.com/claytonphilippe)
--->
 
 <br/>
 <div align="center"><h3> :iphone:Projetos </h3></div>
+-->
 
 <br/>
 <p align="center">
