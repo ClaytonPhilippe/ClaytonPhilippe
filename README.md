@@ -33,4 +33,16 @@ Estusiasta por desenvolvimento Mobile, e também sou artista 3D.
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=Project&theme=dark&hide_border=true&bg_color=446644)](https://github.com/ClaytonPhilippe/rentx)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=rentx&theme=dark&hide_border=true&bg_color=28385c)](https://github.com/ClaytonPhilippe/rentx)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=gofinances&theme=dark&hide_border=true&bg_color=28385c)](https://github.com/ClaytonPhilippe/gofinances)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=star-wars-mobile-library&theme=dark&hide_border=true&bg_color=28385c)](https://github.com/ClaytonPhilippe/star-wars-mobile-library)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=appCurriculo&theme=dark&hide_border=true&bg_color=28385c)](https://github.com/ClaytonPhilippe/appCurriculo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=Numero-aleatorio&theme=dark&hide_border=true&bg_color=28385c)](https://github.com/ClaytonPhilippe/Numero-aleatorio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=snake-game&theme=dark&hide_border=true&bg_color=28385c)](https://github.com/ClaytonPhilippe/snake-game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=My-Skills&theme=dark&hide_border=true&bg_color=28385c)](https://github.com/ClaytonPhilippe/My-Skills)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=Projeto-Clone-Spotify&theme=dark&hide_border=true&bg_color=28385c)](https://github.com/ClaytonPhilippe/Projeto-Clone-Spotify)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=lampada&theme=dark&hide_border=true&bg_color=28385c)](https://github.com/ClaytonPhilippe/lampada)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=verificador-de-idade&theme=dark&hide_border=true&bg_color=28385c)](https://github.com/ClaytonPhilippe/verificador-de-idade)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=hora-do-dia&theme=dark&hide_border=true&bg_color=28385c)](https://github.com/ClaytonPhilippe/hora-do-dia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=calcule-seu-imc&theme=dark&hide_border=true&bg_color=28385c)](https://github.com/ClaytonPhilippe/calcule-seu-imc)
+
