@@ -30,8 +30,6 @@ Estusiasta por desenvolvimento Mobile, e também sou artista 3D.
   <img src="https://github.com/ClaytonPhilippe/ClaytonPhilippe/blob/main/image/rentx.png"  width="230" />
 </p>
 
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=rentx&theme=dark&hide_border=true&bg_color=28385c)](https://github.com/ClaytonPhilippe/rentx)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=gofinances&theme=dark&hide_border=true&bg_color=28385c)](https://github.com/ClaytonPhilippe/gofinances)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=star-wars-mobile-library&theme=dark&hide_border=true&bg_color=28385c)](https://github.com/ClaytonPhilippe/star-wars-mobile-library)
