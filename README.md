@@ -1,13 +1,15 @@
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&color=black)](https://github.com/ClaytonPhilippe/rentx)
-[![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white&color=black)](https://github.com/ClaytonPhilippe/gofinances)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=black)](https://github.com/ClaytonPhilippe/star-wars-mobile-library)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=black)](https://github.com/ClaytonPhilippe/appCurriculo)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=black)](https://github.com/ClaytonPhilippe/Numero-aleatorio)
-[![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white&color=black)](https://github.com/ClaytonPhilippe/snake-game)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&color=0d1117)](https://github.com/ClaytonPhilippe/rentx)
+[![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white&color=0d1117)](https://github.com/ClaytonPhilippe/gofinances)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=0d1117)](https://github.com/ClaytonPhilippe/star-wars-mobile-library)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=0d1117)](https://github.com/ClaytonPhilippe/appCurriculo)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=0d1117)](https://github.com/ClaytonPhilippe/Numero-aleatorio)
+[![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white&color=0d1117)](https://github.com/ClaytonPhilippe/snake-game)
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claytonphilippe/)](https://www.linkedin.com/in/claytonphilippe/)
-[![Gmail Badge](https://img.shields.io/badge/-claytonphilippe%40gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claytonphilippe@gmail.com)](mailto:claytonphilippe@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0d1117?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claytonphilippe/)](https://www.linkedin.com/in/claytonphilippe/)
+[![Gmail Badge](https://img.shields.io/badge/-claytonphilippe%40gmail.com-0d1117?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claytonphilippe@gmail.com)](mailto:claytonphilippe@gmail.com)
+
+
 
 
 
