@@ -33,10 +33,11 @@ Estusiasta por desenvolvimento Mobile, e também sou artista 3D.
 
 <br/>
 <p align="center">
-<a href=https://github.com/ClaytonPhilippe/rentx>Rentx</a>
-<br/>
-  <img src="https://github.com/ClaytonPhilippe/ClaytonPhilippe/blob/main/image/rentx.png"  width="230" />
+  <a href="https://github.com/ClaytonPhilippe/rentx">
+    <img src="https://github.com/ClaytonPhilippe/ClaytonPhilippe/blob/main/image/rentx.png" width="230" />
+  </a>
 </p>
+
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=star-wars-mobile-library&theme=dark&hide_border=false&bg_color=0d1117&icon_color=ffffff)](https://github.com/ClaytonPhilippe/star-wars-mobile-library)
