@@ -49,5 +49,3 @@ Estusiasta por desenvolvimento Mobile, e também sou artista 3D.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=Projeto-Clone-Spotify&theme=dark&hide_border=false&bg_color=0d1117)](https://github.com/ClaytonPhilippe/Projeto-Clone-Spotify)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=verificador-de-idade&theme=dark&hide_border=false&bg_color=0d1117)](https://github.com/ClaytonPhilippe/verificador-de-idade)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=hora-do-dia&theme=dark&hide_border=false&bg_color=0d1117)](https://github.com/ClaytonPhilippe/hora-do-dia)
-
-
