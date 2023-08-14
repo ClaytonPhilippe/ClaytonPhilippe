@@ -25,14 +25,14 @@ Estusiasta por desenvolvimento Mobile, e também sou artista 3D.
 -->
 
 <br/>
-<p align="center">
+<p align="left">
  <a href="https://github.com/ClaytonPhilippe/star-wars-mobile-library">
   <img src="https://github.com/ClaytonPhilippe/ClaytonPhilippe/blob/main/image/SWMobileLibray.png" width="230" />
 </a>
 </p>
 
 <br/>
-<p align="center">
+<p align="right">
   <a href="https://github.com/ClaytonPhilippe/rentx">
     <img src="https://github.com/ClaytonPhilippe/ClaytonPhilippe/blob/main/image/rentx.png" width="230" />
   </a>
