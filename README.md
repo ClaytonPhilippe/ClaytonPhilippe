@@ -12,7 +12,6 @@
 
 
 
-
 <!--<h3>Olá, sou Clayton👋</h3>
 <h3>Bem-vindo ao meu perfil!</h3>
 
@@ -46,9 +45,6 @@ Estusiasta por desenvolvimento Mobile, e também sou artista 3D.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=gofinances&theme=dark&hide_border=false&bg_color=0d1117&icon_color=ffffff)](https://github.com/ClaytonPhilippe/gofinances)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=appCurriculo&theme=dark&hide_border=false&bg_color=0d1117&icon_color=ffffff)](https://github.com/ClaytonPhilippe/appCurriculo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=Numero-aleatorio&theme=dark&hide_border=false&bg_color=0d1117&icon_color=ffffff)](https://github.com/ClaytonPhilippe/Numero-aleatorio)
-
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=snake-game&theme=dark&hide_border=false&bg_color=0d1117&icon_color=ffffff)](https://github.com/ClaytonPhilippe/snake-game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=My-Skills&theme=dark&hide_border=false&bg_color=0d1117&icon_color=ffffff)](https://github.com/ClaytonPhilippe/My-Skills)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ClaytonPhilippe&repo=Projeto-Clone-Spotify&theme=dark&hide_border=false&bg_color=0d1117&icon_color=ffffff)](https://github.com/ClaytonPhilippe/Projeto-Clone-Spotify)
